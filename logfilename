@@ -1,0 +1,23 @@
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+avcodec: Using D3D11VA (AMD Radeon(TM) Graphics, vendor 1002(ATI), device 1638, revision c6) for hardware decoding
+main: Status file authenticated
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mp4: Fragment sequence discontinuity detected 1 != 0
+avcodec: Using D3D11VA (AMD Radeon(TM) Graphics, vendor 1002(ATI), device 1638, revision c6) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mp4: Fragment sequence discontinuity detected 1 != 0
+avcodec: Using D3D11VA (AMD Radeon(TM) Graphics, vendor 1002(ATI), device 1638, revision c6) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+avcodec: Using D3D11VA (AMD Radeon(TM) Graphics, vendor 1002(ATI), device 1638, revision c6) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
